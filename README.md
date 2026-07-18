@@ -1,6 +1,6 @@
 # 🎥 Movie Recommendation System — Collaborative Filtering
 
-Built a user-based collaborative filtering recommendation system that suggests movies based on similarity between users' rating patterns. Part of Jyesta Data Science Internship.
+Built a user-based collaborative filtering recommendation system that suggests movies based on similarity between users' rating patterns.
 
 ## 📌 Overview
 This project covers the full recommendation system workflow — building a user-item ratings matrix, calculating user similarity, generating recommendations, and validating that the model correctly captures taste patterns.
